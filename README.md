@@ -2,7 +2,7 @@
 
 The purpose of this reading group is to build an understanding of rigorous statistical methods used in cognitive science papers.
 
-Please feel free to join the reading group by adding yourself to the [statistical cognitive science mailing list](https://groups.mit.edu/webmoira/list/statistical-cognitive-science-reading-group). We meet at _time_ in _location_. 
+Please feel free to join the reading group by adding yourself to the [statistical cognitive science mailing list](https://groups.mit.edu/webmoira/list/statistical-cognitive-science-reading-group) or to the _slack channel_. We meet at _time_ in _location_. 
 
 ## Next Meetings
 
